@@ -3,7 +3,7 @@
     <Platform Name="Any CPU" />
     <Platform Name="X64" />
   </Configurations>
-  <Project Path="BudgetApp/BudgetApp.csproj">
+  <Project Path="BudgetApp/BudgetApp.csproj" Id="ff6793ff-8626-43a9-9a2b-db48d7543087">
     <Platform Solution="*|X64" Project="X64" />
   </Project>
 </Solution>
